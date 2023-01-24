@@ -52,6 +52,7 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 Y= A⊕B
 
 Procedure
+
 module expone(a,b,y1,y2,y3,y4,y5,y6,y7);
 
 input a,b;
@@ -99,4 +100,5 @@ RTL
 ![Screenshot (2)](https://user-images.githubusercontent.com/123094490/214286424-3abc59ae-4914-44e6-9afa-0a419c413953.png)
 
 Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
